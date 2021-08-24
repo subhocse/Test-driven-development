@@ -1,0 +1,8 @@
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.dll
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\bin\Debug\UnitTestProject.pdb
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\bin\Debug\MathsComponent.dll
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\bin\Debug\MathsComponent.pdb
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.dll
+c:\users\shuvo\documents\visual studio 2015\Projects\UnitTestProject\UnitTestProject\obj\Debug\UnitTestProject.pdb
